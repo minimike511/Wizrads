@@ -1,0 +1,2 @@
+C:\Users\Andy\Documents\Source\CS4480YWizrads\Wizrads\Wizrads\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Andy\Documents\Source\CS4480YWizrads\Wizrads\Wizrads\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
